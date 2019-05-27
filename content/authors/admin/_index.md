@@ -15,7 +15,7 @@ role: Professor of Signal Processing
 # Organizations/Affiliations
 organizations:
 - name: KTH Royal Institute of Technology
-  url: ""
+  url: "https://www.kth.se/"
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
