@@ -51,14 +51,7 @@ Health Authorities.
 
 ## Project team
 
-The project is a collaborative effort between 3 groups at KTH.
-
-: i) Dr. Veronique Chotteau
-(bioprocessing and mathematical modeling), teamed for the experimental work with ii) Assoc.
- at KTH Biotechnology/Glycoscience Division (expert in MS), iii) Prof.
-Elling Jacobsen/Prof. Håkan Hjalmarsson at KTH Automatic Control (experts in automatic control,
-modelling and model identification), and iv) the manufacturer GE Healthcare (GE-HC) and v) the
-end-user Cobra Biologics (Cobra).
+The project is a collaborative effort between 3 groups at KTH, and industrial partners GE Healthcare and Cobra Biologics.
 
 **[Division of Decision and Control Systems KTH](https://www.kth.se/dcs/division-of-decision-and-control-systems-1.788078)**
 
@@ -71,7 +64,7 @@ end-user Cobra Biologics (Cobra).
 
 **[Division of Glycoscience KTH](https://www.kth.se/che/glykovetenskap/division-of-glycoscience-1.785898)**
 
-[Prof. Francisco Vilaplana}(https://www.kth.se/profile/franvila)
+* [Prof. Francisco Vilaplana](https://www.kth.se/profile/franvila)
 
 ## Project funding and duration
 
