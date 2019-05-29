@@ -73,7 +73,7 @@ This is a collaborative project involving the Division of Decision and Control S
 
 **Division of Automatic Control, Linköping University**
 
-* [Prof. Lennart Ljung](http://users.isy.liu.se/rt/ljung/) (PI)
+* [Prof. Lennart Ljung](http://users.isy.liu.se/rt/ljung) (PI)
 * [Assoc. Prof. Tianshi Chen](http://sse.cuhk.edu.cn/en/content/1431) 
 
 ## Project funding and duration
