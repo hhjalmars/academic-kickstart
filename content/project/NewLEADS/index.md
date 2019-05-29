@@ -36,9 +36,21 @@ This area lies at the intersection between engineered systems (which we can desi
 
 A key observation is that it is both futile and unnecessary to attempt to completely capture the dynamics of a complex system. Instead our focus is on parsimonious learning, i.e. learning models that capture the system properties that are essential for the application at hand in a data - and computationally efficient manner. We address the challenges of doing so through three themes: 
 
-1. Fundamental techniques: A major challenge is how to cope with disturbances and noise, in particular for non-linear systems and systems with feedback, which are known to be particularly susceptible to such data corruption.
+1. *Fundamental techniques:* A major challenge is how to cope with disturbances and noise, in particular for non-linear systems and systems with feedback, which are known to be particularly susceptible to such data corruption.
   
-2. Active and on-line learning: By optimizing the stimulii used when generating the measurements, data-efficiency can be increased signficantly. Unfortunately the optimal excitation depends on the unknown system, leading to sequential learning techniques. Here the challenge is how to deal with sequential decisions of actions under uncertainty for dynamical systems. 
+2. *Active and on-line learning:* By optimizing the stimulii used when generating the measurements, data-efficiency can be increased signficantly. Unfortunately the optimal excitation depends on the unknown system, leading to sequential learning techniques. Here the challenge is how to deal with sequential decisions of actions under uncertainty for dynamical systems. 
   
-3. Dynamical networked systems: The power-grid is an example of a spatially distributed interconnected dynamical system. The future hosts an increasing number of such systems with increasing complexity, e.g. transportation systems. Learning networked dynamical systems is still in its infancy and many open challenges exists. 
+3. *Dynamical networked systems:* The power-grid is an example of a spatially distributed interconnected dynamical system. The future hosts an increasing number of such systems with increasing complexity, e.g. transportation systems. Learning networked dynamical systems is still in its infancy and many open challenges exists. 
 
+## Project team
+
+The project is a collaboration between the Division of Decision and Control Systems, The School of Electrical Engineering and Computer Science at KTH and the Department of Information Technology at Uppsala University.
+
+**KTH**
+
+* [Håkan Hjalmarsson](https://www.kth.se/profile/hjalmars)
+* [Cristian Rojas](https://www.kth.se/profile/crro)
+* [Bo Wahlberg](https://www.kth.se/profile/bo)
+
+** Uppsala University**
+* [Thomas Schön](http://user.it.uu.se/~thosc112/index.html)
