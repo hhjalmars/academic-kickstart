@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: PhD 2018
+role: PhD 2018 (main advisor)
 
 # Organizations/Affiliations
 organizations:
