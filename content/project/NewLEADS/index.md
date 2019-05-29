@@ -27,7 +27,7 @@ image:
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
-slides: example
+slides: ""
 ---
 
 Computational resources have become cheap and powerful, at the same time as there have been rapid advances in micro- and nano-technology, opening up for new inexpensive sensors and actuators. Together with the emerging Internet-Of-Things era, this fast-paced development has enabled the construction of ``intelligent'' machines that are able to perform  complex tasks in a physical environment by integrating the  dynamics of physical systems with sensing, actuation and information processing, as well as the interconnection of such devices. Systems like self-learning personal robots, self-driving vehicles, smart buildings optimizing energy and climat, and autonomous Unmanned Aerial Vechicles (UAVs) are starting to appear. Dynamical models of the environment and the systems themselves form an integral part of such devices as they are needed to predict the outcome of future actions, e.g. an UAV needs a dynamical model of its body and load to control its motors. Being at the core of the functionality of many devices, such models need to be sufficiently accurate for their use and therefore  have to adapt to changes in the environment in a reliable way. In this proposal we aim to create a sustainable research environment for data-driven learning of complex dynamical systems.
