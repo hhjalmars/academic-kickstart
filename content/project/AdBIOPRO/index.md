@@ -6,7 +6,7 @@ tags:
 date: "2019-05-29T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
-external_link: "https://www.kth.se/adbiopro/adbiopro-1.776678"
+external_link: ""
 
 image:
   caption: 
@@ -55,3 +55,7 @@ The center is a collaboration between five teams and at KTH and partners from Ka
 ## Project funding and duration
 
 The competence center, which is sponsored by [VINNOVA](https://www.vinnova.se/en), Sweden's innovation agency, was launched in July 2017 and has an expected duration of 10 years. 
+
+## Links
+
+[Center website](https://www.kth.se/adbiopro/adbiopro-1.776678)
