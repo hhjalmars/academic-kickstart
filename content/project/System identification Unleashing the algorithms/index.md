@@ -114,7 +114,6 @@ control is used, e.g. robotics and vehicle technology.
 ## Project team
 
 * [Prof. Håkan Hjalmarsson](https://www.kth.se/profile/hjalmars) 
-* [Mohamed Rasheed Abdalmoaty](https://www.kth.se/profile/abda)
 
 ## Project funding and duration
 
