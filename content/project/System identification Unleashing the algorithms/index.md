@@ -116,5 +116,4 @@ control is used, e.g. robotics and vehicle technology.
 * [Prof. Håkan Hjalmarsson](https://www.kth.se/profile/hjalmars) 
 
 ## Project funding and duration
-
-This project is funded by the [Swedish Research Council](https://www.vr.se/english.html) with duration 2016--2019. 
+ 
