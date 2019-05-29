@@ -78,5 +78,5 @@ This is a collaborative project involving the Division of Decision and Control S
 
 ## Project funding and duration
 
-This is an ERC Advanced Grant with duration 2011-2015.
+This is project is funded by an ERC Advanced Grant with duration 2011-2015.
 
