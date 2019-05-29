@@ -1,5 +1,5 @@
 ---
-title: AdBIORPRO
+title: AdBIOPRO
 summary: Competence Centre for Advanced BioProduction by Continuous Processing
 tags:
 - Bioproduction
