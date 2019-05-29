@@ -111,9 +111,5 @@ process industry as example, but we believe such a framework will
 be highly beneficial in many industrial applications where model based
 control is used, e.g. robotics and vehicle technology. 
 
-## Project team
 
-* [Prof. Håkan Hjalmarsson](https://www.kth.se/profile/hjalmars) 
-
-## Project funding and duration
  
