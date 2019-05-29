@@ -2,7 +2,7 @@
 title: AdBIOPRO
 summary: Competence Centre for Advanced BioProduction by Continuous Processing
 tags:
-- Bioproduction
+- Ongoing
 date: "2019-05-29T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
