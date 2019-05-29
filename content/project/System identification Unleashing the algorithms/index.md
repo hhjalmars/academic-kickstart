@@ -36,7 +36,7 @@ interdisciplinary, incorporating theory from many areas, and a wide spectrum of 
 identification necessitate expert intervention. This bottleneck threatens the development outlined above.
 With a team of internationally leading researchers from KTH and LiU, we target two of the core areas of the field from the
 perspective that algorithms should produce reliable models without human intervention. The overarching aim is thus to
-``unleash the algorithms''. More specifically we target structured systems and address:
+"unleash the algorithms". More specifically we target structured systems and address:
 
 1. Convex algorithms for parameter
 estimation, based on an idea of how to link iterative, prediction error and subspace methods together such that favorable
@@ -48,7 +48,7 @@ properties influence estimation accuracy.
 
 ## Project team
 
-* [Prof. Håkan Hjalmarsson](https://www.kth.se/profile/hjalmars) 
+* [Prof. HÃ¥kan Hjalmarsson](https://www.kth.se/profile/hjalmars) 
 * [Mohamed Rasheed Abdalmoaty](https://www.kth.se/profile/abda)
 
 ## Project funding and duration
