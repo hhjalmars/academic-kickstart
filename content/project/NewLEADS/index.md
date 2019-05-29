@@ -48,15 +48,15 @@ The project is a collaboration between the Division of Decision and Control Syst
 
 **KTH**
 
-* [Håkan Hjalmarsson](https://www.kth.se/profile/hjalmars) (PI)
-* [Cristian Rojas](https://www.kth.se/profile/crro)
-* [Bo Wahlberg](https://www.kth.se/profile/bo)
+* [Prof. Håkan Hjalmarsson](https://www.kth.se/profile/hjalmars) (PI)
+* [Prof. Cristian Rojas](https://www.kth.se/profile/crro)
+* [Prof. Bo Wahlberg](https://www.kth.se/profile/bo)
 
 **Uppsala University**
 
-* [Thomas Schön](http://user.it.uu.se/~thosc112/index.html)
-* [Petre Stoica](http://user.it.uu.se/~ps/ps.html)
-* [Dave Zachariah](https://www.it.uu.se/katalog/davza513)
+* [Prof. Thomas Schön](http://user.it.uu.se/~thosc112/index.html)
+* [Prof. Petre Stoica](http://user.it.uu.se/~ps/ps.html)
+* [Assoc. Prof. Dave Zachariah](https://www.it.uu.se/katalog/davza513)
 
 ## Project funding and duration
 
