@@ -48,9 +48,16 @@ The project is a collaboration between the Division of Decision and Control Syst
 
 **KTH**
 
-* [Håkan Hjalmarsson](https://www.kth.se/profile/hjalmars)
+* [Håkan Hjalmarsson](https://www.kth.se/profile/hjalmars) (PI)
 * [Cristian Rojas](https://www.kth.se/profile/crro)
 * [Bo Wahlberg](https://www.kth.se/profile/bo)
 
-** Uppsala University**
+**Uppsala University**
+
 * [Thomas Schön](http://user.it.uu.se/~thosc112/index.html)
+* [Petre Stoica](http://user.it.uu.se/~ps/ps.html)
+* [Dave Zachariah](https://www.it.uu.se/katalog/davza513)
+
+## Project funding and duration
+
+This project is sponsored by the Swedish Research Council as part of their programme on research environments, with duration 2017-2022. 
