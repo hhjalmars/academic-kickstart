@@ -59,7 +59,7 @@ and self-learning physical robots involve hybrid differential algebraic models.
 
 ## Project team
 
-This is a collaborative project involving four different groups at KTH.
+This is a collaborative project involving four different groups at KTH, covering expertise in software techniques, signal processing, system identification, automatic control, reinforcement learning and bioproduction.
 
 * [Assoc. Prof. David Broman](https://www.kth.se/profile/dbro) (PI)
 * [Ass. Prof. Saikat Chatterjee](https://www.kth.se/profile/sach)
