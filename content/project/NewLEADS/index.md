@@ -44,7 +44,7 @@ A key observation is that it is both futile and unnecessary to attempt to comple
 
 ## Project team
 
-The project is a collaboration between the Division of Decision and Control Systems, The School of Electrical Engineering and Computer Science at KTH and the Department of Information Technology at Uppsala University.
+The project is a collaboration between the Division of Decision and Control Systems, The School of Electrical Engineering and Computer Science at KTH and the Division of Systems and Control, the Department of Information Technology at Uppsala University.
 
 **KTH**
 
