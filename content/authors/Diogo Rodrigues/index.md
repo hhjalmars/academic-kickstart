@@ -36,9 +36,9 @@ social:
 #- icon: twitter
 # icon_pack: fab
 # link: https://twitter.com/GeorgeCushen
-- icon: google-scholar
-  icon_pack: ai
-  link: https://scholar.google.com/citations?user=BqaS_84AAAAJ&hl=en
+# - icon: google-scholar
+#  icon_pack: ai
+#  link: https://scholar.google.com/citations?user=BqaS_84AAAAJ&hl=en
 #- icon: github
 #  icon_pack: fab
 #  link: https://github.com/gcushen
@@ -54,6 +54,5 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.  
 user_groups: [Postdocs]
-# - Postdocs
 ---
 
