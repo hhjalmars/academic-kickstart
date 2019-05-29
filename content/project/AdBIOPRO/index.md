@@ -51,6 +51,7 @@ The center is a collaboration between five teams and at KTH and partners from Ka
 * [Prof. Håkan Hjalmarsson](https://www.kth.se/profile/hjalmars) 
 * [Prof. Elling Jacosen](https://www.kth.se/profile/jacobsen)
 * [Dr Mingliang Wang](https://www.kth.se/profile/miwan)
+* [Dr Diogo Rodrigues](https://www.kth.se/profile/diogor)
 
 ## Project funding and duration
 
