@@ -3,7 +3,7 @@ title: LEARN
 summary: Limitations, Estimation, Adaptivity, Reinforcement, Networks
 in System Identification
 tags:
-- Past projects
+- Past
 date: "2019-05-29T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
@@ -64,15 +64,15 @@ networked and decentralized systems.
 
 ## Project team
 
-This is a collaborative project involving the Division of Decision and Control Systems, School of Electrical Engineering and Computer Science, KTH and the Division of Automatic Control, Department of Electrical Engineering at Linköping University. 
+This is a collaborative project involving the Division of Decision and Control Systems, School of Electrical Engineering and Computer Science, KTH and the Division of Automatic Control, Department of Electrical Engineering at LinkÃ¶ping University. 
 
 **Division of Decision and Control Systems KTH**
 
-* [Prof. Håkan Hjalmarsson](https://www.kth.se/profile/hjalmars) (Co-PI)
+* [Prof. HÃ¥kan Hjalmarsson](https://www.kth.se/profile/hjalmars) (Co-PI)
 * [Cristian Rojas](https://www.kth.se/profile/crro)
 * [Bo Wahlberg](https://www.kth.se/profile/bo)
 
-**Division of Automatic Control, Linköping University**
+**Division of Automatic Control, LinkÃ¶ping University**
 
 * [Prof. Lennart Ljung](http://users.isy.liu.se/rt/ljung/) (PI)
 * [Assoc. Prof. Tianshi Chen](http://sse.cuhk.edu.cn/en/content/1431) 
