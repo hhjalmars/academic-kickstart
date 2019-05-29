@@ -39,7 +39,7 @@ social:
  - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.com/citations?hl=en&user=Deo1k24AAAAJ&view_op=list_works&sortby=pubdate
-#- icon: github
+# - icon: github
 #  icon_pack: fab
 #  link: https://github.com/gcushen
 # Link to a PDF of your resume/CV from the About widget.
