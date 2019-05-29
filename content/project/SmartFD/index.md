@@ -69,7 +69,7 @@ end-user Cobra Biologics (Cobra).
 
 * [Docent V&#233;ronique Chotteau](https://www.kth.se/profile/chotteau) (PI)
 
-**[Division of Glycoscience](https://www.kth.se/che/glykovetenskap/division-of-glycoscience-1.785898)**
+**[Division of Glycoscience KTH](https://www.kth.se/che/glykovetenskap/division-of-glycoscience-1.785898)**
 
 [Prof. Francisco Vilaplana}(https://www.kth.se/profile/franvila)
 
