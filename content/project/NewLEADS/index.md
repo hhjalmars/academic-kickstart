@@ -1,9 +1,9 @@
 ---
-title: Internal Project
+title: NewLEADS - New directions in learning dynamical systems
 summary: An example of using the in-built project page.
 tags:
 - Deep Learning
-date: "2016-04-27T00:00:00Z"
+date: "2019-05-29T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
