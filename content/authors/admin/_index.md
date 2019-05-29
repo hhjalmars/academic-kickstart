@@ -22,8 +22,8 @@ bio: My research interests cover system identification, process modeling and con
 
 interests:
 - System identification
-- Bioprocessing 
-- Modeling of networked systems
+- Process modeling and control
+- Modeling of networked communication systems
 
 education:
   courses:
@@ -62,7 +62,7 @@ email: ""
   
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.  
-user_groups: []
+user_groups: [Researcher]
 # - Researchers
 ---
 
