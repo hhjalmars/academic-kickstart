@@ -61,8 +61,6 @@ and self-learning physical robots involve hybrid differential algebraic models.
 
 This is a collaborative project involving four different groups at KTH.
 
-**Division of Decision and Control Systems KTH**
-
 * [Assoc. Prof. David Broman](https://www.kth.se/profile/dbro) (PI)
 * [Ass. Prof. Saikat Chatterjee](https://www.kth.se/profile/sach)
 * [Docent V&#233;ronique Chotteau](https://www.kth.se/profile/chotteau)
