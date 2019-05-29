@@ -34,7 +34,7 @@ Recent years have witnessed spectacular successes in applying machine learning t
 decision making and control of complex dynamical systems. These tools combine Reinforcement Learning
 (RL) and high-capacity function approximators, typically large neural networks, and hence require a
 tremendous amount of training data, even to learn simple tasks. Their applications have been mainly
-limited to specific scenarios, such as board and video games [25, 32], where generating and gathering
+limited to specific scenarios, such as board and video games, where generating and gathering
 data is inexpensive and limitless. Now, controlling real-world systems such as self-driving autonomous
 vehicles or complex industrial processing plants require high fidelity models which in turn necessitate
 a large amount of data. Many real-world systems can however only be probed a limited number of
@@ -65,8 +65,8 @@ This is a collaborative project involving four different groups at KTH.
 
 * [Assoc. Prof. David Broman](https://www.kth.se/profile/dbro) (PI)
 * [Ass. Prof. Saikat Chatterjee](https://www.kth.se/profile/sach)
-* [Docent Véronique Chotteau](https://www.kth.se/profile/chotteau)
-* [Prof. Håkan Hjalmarsson](https://www.kth.se/profile/hjalmars) 
+* [Docent V{\'e}ronique Chotteau](https://www.kth.se/profile/chotteau)
+* [Prof. HÃ¥kan Hjalmarsson](https://www.kth.se/profile/hjalmars) 
 * [Prof. Alexandre Proutiere](https://people.kth.se/~alepro/) 
 
 ## Project funding and duration
