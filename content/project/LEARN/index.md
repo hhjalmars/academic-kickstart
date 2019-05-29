@@ -69,8 +69,8 @@ This is a collaborative project involving the Division of Decision and Control S
 **Division of Decision and Control Systems KTH**
 
 * [Prof. Håkan Hjalmarsson](https://www.kth.se/profile/hjalmars) (Co-PI)
-* [Cristian Rojas](https://www.kth.se/profile/crro)
-* [Bo Wahlberg](https://www.kth.se/profile/bo)
+* [Assoc. Prof. Cristian Rojas](https://www.kth.se/profile/crro)
+* [Prof. Bo Wahlberg](https://www.kth.se/profile/bo)
 
 **Division of Automatic Control, Linköping University**
 
