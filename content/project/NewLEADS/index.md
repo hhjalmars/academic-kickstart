@@ -6,7 +6,7 @@ tags:
 date: "2019-05-29T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
-external_link: "https://www.kth.se/adbiopro/adbiopro-1.776678"
+external_link: ""
 
 image:
   caption: Photo by rawpixel on Unsplash
