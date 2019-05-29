@@ -28,7 +28,7 @@ image:
 #   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
 # slides: example
-slides=""
+slides: ""
 ---
 
 The objective with this project is to provide design tools and algorithms for model
