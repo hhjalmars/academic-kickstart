@@ -2,7 +2,7 @@
 title: SmartFD
 summary: Smart feed design for biopharmaceutical production
 tags:
-- Past projects
+- Ongoing
 date: "2019-05-29T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
@@ -56,13 +56,13 @@ The project is a collaborative effort between 3 groups at KTH.
 : i) Dr. Veronique Chotteau
 (bioprocessing and mathematical modeling), teamed for the experimental work with ii) Assoc.
  at KTH Biotechnology/Glycoscience Division (expert in MS), iii) Prof.
-Elling Jacobsen/Prof. Håkan Hjalmarsson at KTH Automatic Control (experts in automatic control,
+Elling Jacobsen/Prof. HÃ¥kan Hjalmarsson at KTH Automatic Control (experts in automatic control,
 modelling and model identification), and iv) the manufacturer GE Healthcare (GE-HC) and v) the
 end-user Cobra Biologics (Cobra).
 
 **[Division of Decision and Control Systems KTH](https://www.kth.se/dcs/division-of-decision-and-control-systems-1.788078)**
 
-* [Prof. Håkan Hjalmarsson](https://www.kth.se/profile/hjalmars) 
+* [Prof. HÃ¥kan Hjalmarsson](https://www.kth.se/profile/hjalmars) 
 * [Prof. Elling Jacosen](https://www.kth.se/profile/jacobsen)
 
 **[Cell Technology Group KTH](http://www.ceteg.se)**
