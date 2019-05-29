@@ -27,7 +27,7 @@ image:
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
-slides: example
+slides: ""
 ---
 
 The Competence Centre for Advanced BioProduction by Continuous Processing, AdBIOPRO, aims at developing competitive technology for bioproduction, focusing on the imminent paradigm shift towards continuous processes of biopharmaceuticals, and on manufacturing of emerging potent therapeutic products such as recombinant viral vector and cell products.
