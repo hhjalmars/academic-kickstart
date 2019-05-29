@@ -1,5 +1,5 @@
 ---
-title: System identification: Unleashing the algorithms
+title: System identification - Unleashing the algorithms
 summary: 
 tags:
 - Ongoing
