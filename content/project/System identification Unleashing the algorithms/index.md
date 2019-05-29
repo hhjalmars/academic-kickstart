@@ -1,5 +1,5 @@
 ---
-title: Learning Dynamical Systems
+title: System identification: Unleashing the algorithms
 summary: 
 tags:
 - Ongoing
@@ -114,7 +114,8 @@ control is used, e.g. robotics and vehicle technology.
 ## Project team
 
 * [Prof. Håkan Hjalmarsson](https://www.kth.se/profile/hjalmars) 
+* [Mohamed Rasheed Abdalmoaty](https://www.kth.se/profile/abda)
 
 ## Project funding and duration
 
-This project is funded by [WASP](https://wasp-sweden.org/), Wallenberg AI, Autonomous Systems and Software Program, with duration 2019--2023. 
+This project is funded by the [Swedish Research Council](https://www.vr.se/english.html) with duration 2016--2019. 
