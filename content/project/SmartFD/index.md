@@ -30,7 +30,7 @@ image:
 slides: ""
 ---
 
-In SmartFD project we aim at using mathematical modelling to improve the development of
+In the SmartFD project we aim at using mathematical modelling to improve the development of
 protein drug (biopharmaceuticals) manufacturing cultivation process for optimal solutions at
 reduced costs and labour. The focus of SmartFD will in particular be the creation of intelligent
 model-based tools to develop the culture media and the feed strategies to be used in manufacturing
