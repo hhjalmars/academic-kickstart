@@ -1,6 +1,6 @@
 ---
 title: AdBIORPRO
-summary: The Competence Centre for Advanced BioProduction by Continuous Processing, AdBIOPRO
+summary: Competence Centre for Advanced BioProduction by Continuous Processing
 tags:
 - Bioproduction
 date: "2019-05-29T00:00:00Z"
@@ -33,7 +33,7 @@ slides: example
 The Competence Centre for Advanced BioProduction by Continuous Processing, AdBIOPRO, aims at developing competitive technology for bioproduction, focusing on the imminent paradigm shift towards continuous processes of biopharmaceuticals, and on manufacturing of emerging potent therapeutic products such as recombinant viral vector and cell products.
 
 
-Driven by their complementary competence, academic expertise from five teams at KTH, covering mammalian cell bioprocessing (Docent Véronique Chotteau), cell omics characterization (Assistant Prof. Johan Rockberg), gene therapy (Prof. Torbjörn Gräslund), downstream processing (Prof. Sophia Hober) and data driven modelling and control (Prof. Håkan Hjalmarsson and Prof. Elling W Jacobsen), are joining forces with partners from Karolinska University Hospital (Associate Prof. Pontus Blomberg) and Lund University (Prof. Bernt Nilsson) and seven industrial partners, Swedish Orphan Biovitrum, Cobra Biologics, BioInvent, GE Healthcare Life Sciences, Valneva, Lab-on-a-Bead, and CellProtect Nordic Pharmaceutical to create a sustainable environment for this purpose. AdBIOPRO is co-funded by VINNOVA and the industrial partners.
+Driven by their complementary competence, academic expertise from five teams at KTH, covering mammalian cell bioprocessing (Docent VÃ©ronique Chotteau), cell omics characterization (Assistant Prof. Johan Rockberg), gene therapy (Prof. TorbjÃ¶rn GrÃ¤slund), downstream processing (Prof. Sophia Hober) and data driven modelling and control (Prof. HÃ¥kan Hjalmarsson and Prof. Elling W Jacobsen), are joining forces with partners from Karolinska University Hospital (Associate Prof. Pontus Blomberg) and Lund University (Prof. Bernt Nilsson) and seven industrial partners, Swedish Orphan Biovitrum, Cobra Biologics, BioInvent, GE Healthcare Life Sciences, Valneva, Lab-on-a-Bead, and CellProtect Nordic Pharmaceutical to create a sustainable environment for this purpose. AdBIOPRO is co-funded by VINNOVA and the industrial partners.
 
 Integrated continuous bioprocess
 Biopharmaceuticals have become the best selling drugs in terms of revenues, e.g. with monoclonal antibody sales, compared to small molecules. Beyond the supremacy of monoclonal antibodies, the actual trends are going towards growing pipelines of biopharmaceuticals, more complex protein drugs but also cell-based emerging alternative therapeutic approaches such as gene and cell therapy. In the domain of biopharmaceutical manufacturing, the legacy is fed-batch process (i.e. batch process fed with time) followed by several batch purification steps, e.g. chromatography steps, supported by in house industrial technology platforms. However the field is rapidly evolving by incorporating novel technologies to meet the challenges brought by the new trends and a constant need of competitiveness.
@@ -48,7 +48,7 @@ The center is a collaboration between five teams and at KTH and partners from Ka
 
 **Division of Decision and Control Systems KTH**
 
-* [Prof. Håkan Hjalmarsson](https://www.kth.se/profile/hjalmars) 
+* [Prof. HÃ¥kan Hjalmarsson](https://www.kth.se/profile/hjalmars) 
 * [Prof. Elling Jacosen](https://www.kth.se/profile/jacobsen)
 * [Dr Mingliang Wang](https://www.kth.se/profile/miwan)
 
