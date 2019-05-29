@@ -66,7 +66,7 @@ This is a collaborative project involving four different groups at KTH.
 * [Assoc. Prof. David Broman](https://www.kth.se/profile/dbro) (PI)
 * [Ass. Prof. Saikat Chatterjee](https://www.kth.se/profile/sach)
 * [Docent V{\'e}ronique Chotteau](https://www.kth.se/profile/chotteau)
-* [Prof. Håkan Hjalmarsson](https://www.kth.se/profile/hjalmars) 
+* [Prof. H&#229;kan Hjalmarsson](https://www.kth.se/profile/hjalmars) 
 * [Prof. Alexandre Proutiere](https://people.kth.se/~alepro/) 
 
 ## Project funding and duration
