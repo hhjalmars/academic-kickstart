@@ -10,19 +10,19 @@ authors:
 superuser: false
 
 # Role/position
-role: PhD 2014 (main advisor)
+role: Director Autonomous Drive at Einride
 
 # Organizations/Affiliations
 organizations:
-- name: KTH Royal Institute of Technology
-  url: "https://www.kth.se/"
+- name: Einride
+  url: "https://www.einride.tech/"
 
 # Short bio (displayed in user profile at end of posts)
 bio: 
 
 interests:
 
-education:
+education: 
   courses:
 
 # Social/Academic Networking
