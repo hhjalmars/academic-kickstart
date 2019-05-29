@@ -2,7 +2,7 @@
 title: DL2
 summary: Data Limited Learning
 tags:
-- Bioproduction
+- Ongoing
 date: "2019-05-29T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
