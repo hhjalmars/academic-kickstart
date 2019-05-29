@@ -62,8 +62,8 @@ email: ""
   
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.  
-user_groups: []
+user_groups:
 # - Researchers
-# ---
+---
 
 Håkan Hjalmarsson is a professor of signal processing at the Division of Decision and Control Systems, School of Electrical Engineering and Computer Science, KTH Royal Institute of Technology. He is also affiliated with the Centre for Advanced Bioproduction at KTH. His research interests include system identification, modeling and control of bioprocesses and networked systems. 
