@@ -18,7 +18,7 @@ organizations:
   url: "https://www.kth.se/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests cover system identification, process modeling and control, and communication network
 
 interests:
 - System identification
@@ -53,9 +53,9 @@ social:
 #  link: https://github.com/gcushen
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.  
-# - icon: cv
-#   icon_pack: ai
-#   link: files/cv.pdf
+- icon: cv
+  icon_pack: ai
+  link: files/HHCV_wasp.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
@@ -66,4 +66,4 @@ user_groups: []
 # - Researchers
 ---
 
-Håkan Hjalmarsson is a professor of signal processing at the Division of Decision and Control Systems, School of Electrical Engineering and Computer Science, KTH Royal Institute of Technology. He is also affiliated with the Centre for Advanced Bioproduction at KTH. His research interests include system identification, modeling and control of bioprocesses and networked systems. 
+Håkan Hjalmarsson is a professor of signal processing at the Division of Decision and Control Systems, School of Electrical Engineering and Computer Science, KTH Royal Institute of Technology. He is also affiliated with the Centre for Advanced Bioproduction at KTH. His research interests cover system identification, process modeling and control, and communication networks. 
