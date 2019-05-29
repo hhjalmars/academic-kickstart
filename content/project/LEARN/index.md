@@ -1,7 +1,6 @@
 ---
 title: LEARN
-summary: Limitations, Estimation, Adaptivity, Reinforcement, Networks
-in System Identification
+summary: Limitations, Estimation, Adaptivity, Reinforcement, Networks in System Identification
 tags:
 - Past
 date: "2019-05-29T00:00:00Z"
