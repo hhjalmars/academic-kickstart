@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: PhD 2014 (main advisor)
+role: Director Autonomous Drive
 
 # Organizations/Affiliations
 organizations:
@@ -23,7 +23,7 @@ bio:
 interests:
 
 education:
-  courses:
+  courses: PhD in Electrical Engineering
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
