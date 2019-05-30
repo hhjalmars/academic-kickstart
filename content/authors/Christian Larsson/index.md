@@ -24,9 +24,9 @@ interests:
 
   education:
   courses:
-  - course: PhD in Automatic Control
-    institution: Linköping University
-    year: 1993
+  - course: PhD in Electrical Engineering
+    institution: KTH
+    year: 2014
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
