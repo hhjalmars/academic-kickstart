@@ -18,10 +18,9 @@ organizations:
   url: "https://www.einride.tech/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: asdfs
+bio:
 
 interests:
-- asdf
 
   education:
   courses:
