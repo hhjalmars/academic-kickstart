@@ -81,15 +81,15 @@ importance for the further developments of this field:
 
 **Division of Decision and Control Systems KTH**
 
-* [Prof. Håkan Hjalmarsson](https://www.kth.se/profile/hjalmars) 
-* [Assistant Prof. Dimitrios Katselis](http://katselis.web.engr.illinois.edu) 
+* [Prof. HÃ¥kan Hjalmarsson](https://www.kth.se/profile/hjalmars) 
+* [Dr. Dimitrios Katselis](http://katselis.web.engr.illinois.edu) 
 * [Assoc. Prof. Cristian Rojas](https://www.kth.se/profile/crro) 
 
 **Division of Signal Processing KTH**
 
 * [Prof. Mats Bengtsson](https://www.kth.se/profile/matben) 
 * [Prof. Magnus Jansson](https://www.kth.se/profile/janssonm) 
-* [Prof. Björn Ottersten](https://www.kth.se/profile/otterste) 
+* [Prof. BjÃ¶rn Ottersten](https://www.kth.se/profile/otterste) 
 
 ## Project funding and duration
 
