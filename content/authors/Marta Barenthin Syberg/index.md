@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Märta Barenthin
+name: MÃ¤rta Barenthin
 
 # Username (this should match the folder name)
 authors:
@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: PhD 2006 (co-advisor)
+role: Technical Lead Scheduling Optimization at RaySearch Laboratories. PhD 2006 (co-advisor)
 
 # Organizations/Affiliations
 organizations:
@@ -53,7 +53,7 @@ email: ""
   
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.  
-user_groups: [Alumni]
+user_groups: [Past PhDs]
 # - Researcher
 ---
 
