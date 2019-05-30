@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Director Autonomous Drive, Einride. PhD in 2014 (main advisor)
+role: Director Autonomous Drive, Einride. PhD 2014
 
 # Organizations/Affiliations
 organizations:
