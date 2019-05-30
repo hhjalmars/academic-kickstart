@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Director Of Technology at FLIR Systems. Tec. Lic. 2005 (main advisor)
+role: Director Of Technology at FLIR Systems. Lic. Eng. 2005
 
 # Organizations/Affiliations
 organizations:
