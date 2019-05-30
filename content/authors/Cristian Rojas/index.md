@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Associate Professor in Automatic Control
+role: Associate Professor, Division of Decision and Control Systems, KTH. Postdoc 2008-2010
 
 # Organizations/Affiliations
 organizations:
@@ -53,7 +53,6 @@ email: ""
   
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.  
-user_groups: [Researcher]
-# - Researcher
+user_groups: [Past Postdocs]
 ---
 
