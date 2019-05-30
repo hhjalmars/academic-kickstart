@@ -18,9 +18,10 @@ organizations:
   url: "https://www.einride.tech/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: 
+bio: asdfs
 
 interests:
+- asdf
 
   education:
   courses:
@@ -58,4 +59,4 @@ email: ""
 #   Set this to `[]` or comment out if you are not using People widget.  
 user_groups: [Past PhDs]
 ---
-
+adsasf
