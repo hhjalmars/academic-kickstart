@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Director of Computer Vision and Algorithms at Tobii AB. PhD 2008 (main advisor)
+role: Director of Computer Vision and Algorithms at Tobii AB. PhD 2008
 
 # Organizations/Affiliations
 organizations:
