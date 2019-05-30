@@ -22,8 +22,11 @@ bio:
 
 interests:
 
-education:
+  education:
   courses:
+  - course: PhD in Automatic Control
+    institution: Linköping University
+    year: 1993
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
