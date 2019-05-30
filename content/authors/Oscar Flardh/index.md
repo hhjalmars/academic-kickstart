@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: PhD 2012
+role: Senior Engineer at Scania Group. PhD 2012
 
 # Organizations/Affiliations
 organizations:
