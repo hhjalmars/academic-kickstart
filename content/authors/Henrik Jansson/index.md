@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: PhD 2004 (main advisor)
+role: Raysearch Laboratories. PhD 2004 (main advisor)
 
 # Organizations/Affiliations
 organizations:
