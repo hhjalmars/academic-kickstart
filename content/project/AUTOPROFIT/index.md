@@ -55,13 +55,13 @@ The project is a collaboration between four academic partners, TU Delft, Eindhov
 
 **Division of Decision and Control Systems KTH**
 
-* [Prof. Håkan Hjalmarsson](https://www.kth.se/profile/hjalmars) 
+* [Prof. HÃ¥kan Hjalmarsson](https://www.kth.se/profile/hjalmars) 
 * Christian Larsson
 * Mariette Annergren
 
 ## Project funding and duration
 
-The project is funded by the EU FP7 framework program. 
+The project is funded by the EU FP7 framework program with duration 2010-2013.
 
 ## Links
 
