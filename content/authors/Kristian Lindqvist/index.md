@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Senior Software Engineer at OHB Sweden AB. Tec. Lic. 2001 (main advisor)
+role: Senior Software Engineer at OHB Sweden AB. Lic. Eng. 2001
 
 # Organizations/Affiliations
 organizations:
