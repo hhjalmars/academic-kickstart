@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Director Autonomous Drive
+role: Director Autonomous Drive, Einride
 
 # Organizations/Affiliations
 organizations:
@@ -24,9 +24,6 @@ interests:
 
 education:
   courses:
-    - course: PhD in Electrical Engineering
-    institution: KTH
-    year: 2014
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
