@@ -2,7 +2,7 @@
 title: Identification and Modeling - Limitations and Networks
 summary: 
 tags:
-- Ongoing
+- Past
 date: "2019-05-29T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
@@ -50,7 +50,7 @@ The main objective with this proposal is twofold:
 
 ## Project team
 
-* [Prof. Håkan Hjalmarsson](https://www.kth.se/profile/hjalmars) 
+* [Prof. HÃ¥kan Hjalmarsson](https://www.kth.se/profile/hjalmars) 
 
 ## Project funding and duration
 
