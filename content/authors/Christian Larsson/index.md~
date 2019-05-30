@@ -1,16 +1,16 @@
 ---
 # Display name
-name: Christian Larsson
+name: Miguel Galrinho
 
 # Username (this should match the folder name)
 authors:
-- Christian Larsson
+- Miguel Galrinho
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: PhD 2014 (main advisor)
+role: PhD 2018
 
 # Organizations/Affiliations
 organizations:
