@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Vice President Development and Engineering at DeLaval. PhD 2002 (main advisor)
+role: Vice President Development and Engineering at DeLaval. PhD 2002
 
 # Organizations/Affiliations
 organizations:
