@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: PhD 2008 (main advisor)
+role: Director of Computer Vision and Algorithms at Tobii AB. PhD 2008 (main advisor)
 
 # Organizations/Affiliations
 organizations:
@@ -53,7 +53,7 @@ email: ""
   
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.  
-user_groups: [Alumni]
+user_groups: [Past PhDs]
 # - Researcher
 ---
 
