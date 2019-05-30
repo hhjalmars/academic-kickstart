@@ -4,13 +4,13 @@ name: Mats Tallfors
 
 # Username (this should match the folder name)
 authors:
-- Miguel Galrinho
+- Mats Tallfors
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: Tec. Lic. 2005 (main advisor)
+role: Resarcher at RISE SICS. Tec. Lic. 2005 (main advisor)
 
 # Organizations/Affiliations
 organizations:
