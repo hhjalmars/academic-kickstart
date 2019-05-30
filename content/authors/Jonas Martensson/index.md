@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: [Assoc. Professor KTH](https://www.kth.se/profile/jonas1). PhD 2007 (main advisor)
+role: Assoc. Professor, Division of Decision and Control Systems, KTH. PhD 2007 (main advisor)
 
 # Organizations/Affiliations
 organizations:
