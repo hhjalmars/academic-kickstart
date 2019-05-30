@@ -14,8 +14,8 @@ role: PhD 2014 (main advisor)
 
 # Organizations/Affiliations
 organizations:
-- name: KTH Royal Institute of Technology
-  url: "https://www.kth.se/"
+- name: Einride
+  url: "https://www.einride.tech/"
 
 # Short bio (displayed in user profile at end of posts)
 bio: 
