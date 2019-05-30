@@ -52,16 +52,17 @@ The expected impact of the proposed technology is threefold:
 
 **Division of Decision and Control Systems KTH**
 
-* [Prof. Håkan Hjalmarsson](https://www.kth.se/profile/hjalmars) 
+* [Prof. HÃ¥kan Hjalmarsson](https://www.kth.se/profile/hjalmars) 
 * [Assistant Prof. Dimitrios Katselis](http://katselis.web.engr.illinois.edu) 
 * [Assoc. Prof. Cristian Rojas](https://www.kth.se/profile/crro) 
 
 **Division of Signal Processing KTH**
 
 * [Prof. Mats Bengtsson](https://www.kth.se/profile/matben) 
-* [Prof. Björn Ottersten](https://www.kth.se/profile/otterste) 
+* [Prof. BjÃ¶rn Ottersten](https://www.kth.se/profile/otterste) 
 
 ## Project funding and duration
 
 This project is funded by the [Swedish Research Council](https://www.vr.se/english.html) with duration 2011--2013.
+
 
