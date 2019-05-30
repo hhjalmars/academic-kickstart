@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: PhD 2018
+role: Development Engineer, Sensor Fusion, Scania Group. PhD 2018
 
 # Organizations/Affiliations
 organizations:
