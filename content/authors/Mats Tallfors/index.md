@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Resarcher at RISE SICS. Tec. Lic. 2005 (main advisor)
+role: Resarcher at RISE SICS. Lic. Eng. 2005
 
 # Organizations/Affiliations
 organizations:
