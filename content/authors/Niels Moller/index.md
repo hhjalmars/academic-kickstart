@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: PhD 2008 (co-advisor)
+role: Google. PhD 2008 (co-advisor)
 
 # Organizations/Affiliations
 organizations:
