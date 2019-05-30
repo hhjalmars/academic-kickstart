@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Director Autonomous Drive, Einride
+role: Director Autonomous Drive, Einride. PhD in 2014 (main advisor)
 
 # Organizations/Affiliations
 organizations:
@@ -59,4 +59,3 @@ email: ""
 user_groups: [Past PhDs]
 ---
 
-adsasf
