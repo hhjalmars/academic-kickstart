@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Attitude and Orbit Control Specialist at OHB Sweden AB. PhD 2018 (main advisor)
+role: Attitude and Orbit Control Specialist at OHB Sweden AB. PhD 2018
 
 # Organizations/Affiliations
 organizations:
