@@ -23,7 +23,10 @@ bio:
 interests:
 
 education:
-  courses: PhD in Electrical Engineering
+  courses:
+    - course: PhD in Electrical Engineering
+    institution: KTH
+    year: 2014
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
