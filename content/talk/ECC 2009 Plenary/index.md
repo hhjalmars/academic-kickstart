@@ -29,7 +29,7 @@ identification in networked and decentralized systems."
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: "2009-08-24T00:00:00Z"
+date: "2009-08-24T08:30:00Z"
 # date_end: "2030-06-01T15:00:00Z"
 all_day: false
 
@@ -62,7 +62,7 @@ url_video: ""
 #   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
 # slides: example
-slides: ECC09
+slides: ""
 
 # Projects (optional).
 #   Associate this post with one or more of your projects.
@@ -75,3 +75,4 @@ projects:
 # Enable math on this page?
 math: true
 ---
+{{% staticref "files/ecc09plenary_handout.pdf" %}}Download slides{{% /staticref %}}
