@@ -32,7 +32,7 @@ links:
 #  url: https://twitter.com/georgecushen
 url_code: ""
 url_pdf: ""
-url_slides: https://cocky-sinoussi-f53367.netlify.com/files/main_ddcls18_handout.pdf
+url_slides: https://cocky-sinoussi-f53367.netlify.com/files/main_ddcls18_v7.pdf
 url_video: ""
 
 # Markdown Slides (optional).
@@ -54,4 +54,4 @@ projects:
 # Enable math on this page?
 math: true
 ---
-{{% staticref "files/main_ddcls18_handout.pdf" %}}Download slides{{% /staticref %}}
+{{% staticref "files/main_ddcls18_v7.pdf" %}}Download slides{{% /staticref %}}
