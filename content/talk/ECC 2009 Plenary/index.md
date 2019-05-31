@@ -4,7 +4,7 @@ event: European Control Conference - ECC09
 event_url: http://www.conferences.hu/ecc09/
 location: Budapest, Hungary
 summary: System identification of complex and structured systems
-abstract: "A key issue in system identification is how to cope with high system complexity. In this contribution we stress the importance of taking the application into account in order to cope with this issue. We define the concept "cost of complexity" which is a measure of the minimum required experimental effort (e.g. used input energy) as a function of the system complexity, the noise properties, and the amount, and desired quality, of the system information to be extracted from the data. This measure gives the user a handle on the trade-offs that must be considered when performing identification with a fixed."
+abstract: "A key issue in system identification is how to cope with high system complexity."
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
