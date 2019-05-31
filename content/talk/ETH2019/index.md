@@ -9,7 +9,7 @@ abstract: "Algorithms using multi-step least-squares as an alternative to maximu
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: "2016-12-06T00:00:00Z"
+date: "2019-05-13T17:00:00Z"
 # date_end: "2030-06-01T15:00:00Z"
 all_day: false
 
