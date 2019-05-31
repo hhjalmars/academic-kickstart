@@ -53,7 +53,7 @@ links:
   url: https://twitter.com/georgecushen
 url_code: ""
 url_pdf: ""
-url_slides: "ecc09plenary_handout.pdf"
+url_slides: ecc09plenary_handout.pdf
 url_video: ""
 
 # Markdown Slides (optional).
