@@ -62,7 +62,7 @@ url_video: ""
 #   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
 # slides: example
-slides: ecc09plenary_handout.pdf
+slides: ECC09
 
 # Projects (optional).
 #   Associate this post with one or more of your projects.
