@@ -1,6 +1,6 @@
 ---
-title: Seminar at IST, Universit‰t Stuttgart 2016
-event: 
+title: Seminar at IST, Universit√§t Stuttgart 2016
+event: Seminar
 event_url: 
 location: Stuttgart, Germany
 summary: Fundamentals of Data Driven Control Design
