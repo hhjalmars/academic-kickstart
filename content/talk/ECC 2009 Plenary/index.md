@@ -3,7 +3,7 @@ title: Plenary presentation
 event: European Control Conference - ECC09
 event_url: http://www.conferences.hu/ecc09/
 location: Budapest, Hungary
-summary: System identification of complex and structured systems
+summary: System 
 abstract: "A key issue in system identification is how to cope with high system complexity."
 
 # Talk start and end times.
