@@ -5,7 +5,7 @@ event_url:
 location: Keio, Japan
 summary: Outlier-robust estimation of uncertain-input systems with applications to nonparametric FIR
 and Hammerstein models 
-abstract: ""
+abstract: " "
 
 
 # Talk start and end times.
