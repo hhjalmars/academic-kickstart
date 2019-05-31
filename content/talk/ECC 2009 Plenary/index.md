@@ -1,9 +1,9 @@
 ---
-title: Plenary presentation
-event: European Control Conference - ECC09
+title: Plenary presentation ECC09
+event: European Control Conference
 event_url: http://www.conferences.hu/ecc09/
 location: Budapest, Hungary
-summary: System 
+summary: System identification of complex and structured systems
 abstract: "A key issue in system identification is how to cope with high system
 complexity. In this contribution we stress the importance of taking 
 the application into account in order to cope with this issue.
@@ -29,12 +29,12 @@ identification in networked and decentralized systems."
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: "2030-06-01T13:00:00Z"
-date_end: "2030-06-01T15:00:00Z"
+date: "2009-08-24T00:00:00Z"
+# date_end: "2030-06-01T15:00:00Z"
 all_day: false
 
 # Schedule page publish date (NOT talk date).
-publishDate: "2017-01-01T00:00:00Z"
+publishDate: "2019-05-31T00:00:00Z"
 
 authors: []
 tags: []
