@@ -1,5 +1,5 @@
 ---
-title: Invited talk at the European Research Network for System Identification - ERNSI 2007
+title: Invited talk at the European Research Network for System Identification Workshop- ERNSI 2007
 event: 
 event_url: 
 location: San Servolo, Italy
