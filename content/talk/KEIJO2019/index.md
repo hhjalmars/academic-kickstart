@@ -3,7 +3,7 @@ title: Seminar at the Automatic Control Laboratory, Keio University 2019
 event: 
 event_url: 
 location: Keio, Japan
-summary: Outlier-robust estimation of uncertain-input systems with applications to nonparametric FIR
+summary: Outlier robust estimation of uncertain input systems with applications to nonparametric FIR
 and Hammerstein models 
 abstract: " "
 
