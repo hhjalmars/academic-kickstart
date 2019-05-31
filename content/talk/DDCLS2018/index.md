@@ -1,7 +1,7 @@
 ---
 title: Plenary presentation DDCLS 2018
 event: 7th IEEE Data Driven Control and Learning Systems Conference
-event_url: 
+event_url: ""
 location: Dali, China
 summary: Active Application Oriented Learning of Complex Dynamical Systems
 with Application to MPC
