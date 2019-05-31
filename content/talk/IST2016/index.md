@@ -3,7 +3,7 @@ title: Seminar at IST, Universität Stuttgart 2016
 event: Seminar
 event_url: 
 location: Stuttgart, Germany
-summary: Fundamentals of Data Driven Control Design
+summary: Fundamentals of data driven control design
 abstract: "Departing  from a waterbed effect for the modeling accuracy, inherent in all full scale model estimation, and the Cramer-Rao bound, that limits performance of data driven methods, we discuss how to do data driven control design for complex systems. We  compare direct design, when data is used to directly tune a controller, with indirect design, where a model is used as a proxy for the information contained in the data. We argue that broad band excitation in experiments for complex systems may lead to poor performance and discuss application oriented experiment design as a way to cope with this. We show that this technique leads to intuitive appealing designs which alleviate the choice of model structure, the hardest problem in system identification."
 
 
