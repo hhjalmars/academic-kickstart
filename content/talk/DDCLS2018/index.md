@@ -4,32 +4,11 @@ event: 7th IEEE Data Driven Control and Learning Systems Conference
 event_url: 
 location: Dali, China
 summary: System identification of complex and structured systems
-abstract: "A key issue in system identification is how to cope with high system
-complexity. In this contribution we stress the importance of taking 
-the application into account in order to cope with this issue.
-We define the concept cost of complexity which is a measure of 
-the minimum required experimental effort (e.g. used input energy) as a
-function of the system complexity, the noise properties, and
-the amount, and desired quality, of the system information to be
-extracted from the data. This measure gives the user a handle on the
-trade-offs that must be considered when performing identification with
-a fixed experimental budget. Our analysis is based on the observation
-that the identification objective is to guarantee that the estimated 
-model ends up within a pre-specified ``level set'' of the application
-objective. This geometric notion leads to a number of useful insights: 
-Experiments should reveal system properties important for the
-application but may also conceal irrelevant properties. The latter, 
-dual, objective can be explored to simplify model structure
-selection and model error assessment issues.  We also discuss
-practical issues related to computation and implementation of optimal
-experiment designs. Finally, we illustrate some fundamental
-limitations that arise in 
-identification of structured systems. This topic has bearings on
-identification in networked and decentralized systems."
+abstract: "Data-driven modeling of complex dynamical systems can be very challenging. However, by explicitly considering the quality requirements of the intended use of the model this task can be significantly alleviated. Application oriented experiment design (AOED) is a systematic way to do this. It facilitates identification of system properties that are important for the application at hand, at the same time as it allows simplified model structures to be used since it, for reasons of experimental economy, avoids exciting system properties of little consequence for the application. In this talk we outline the theory for AOED and discuss how to use this technique in an on-line context such that the system is actively better and better probed in a sequential manner as more and more information is acquired. In particular we show how the technique can be integrated in model predictive control."
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: "2009-08-24T08:30:00Z"
+date: "2018-05-26T08:30:00Z"
 # date_end: "2030-06-01T15:00:00Z"
 all_day: false
 
