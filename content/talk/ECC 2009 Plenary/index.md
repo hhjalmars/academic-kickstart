@@ -1,5 +1,5 @@
 ---
-title: Plenary presentation ECC09
+title: Plenary ECC09
 event: European Control Conference
 event_url: http://www.conferences.hu/ecc09/
 location: Budapest, Hungary
