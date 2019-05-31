@@ -1,8 +1,8 @@
 ---
-title: Plenary ECC09
-event: European Control Conference
-event_url: http://www.conferences.hu/ecc09/
-location: Budapest, Hungary
+title: Plenary DDCLS 2018
+event: 7th IEEE Data Driven Control and Learning Systems Conference
+event_url: 
+location: Dali, China
 summary: System identification of complex and structured systems
 abstract: "A key issue in system identification is how to cope with high system
 complexity. In this contribution we stress the importance of taking 
