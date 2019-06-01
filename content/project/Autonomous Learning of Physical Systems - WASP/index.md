@@ -1,5 +1,5 @@
 ---
-title: Learning Dynamical Systems
+title: Autonomous Learning of Physical Systems
 summary: 
 tags:
 - Ongoing
