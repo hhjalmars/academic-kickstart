@@ -53,5 +53,7 @@ projects:
 
 # Enable math on this page?
 math: true
+
+# This is to be below --- {{% localref "main_ddcls18_v7.pdf" %}}Download slides{{% /localref %}}
 ---
-# {{% localref "main_ddcls18_v7.pdf" %}}Download slides{{% /localref %}}
+
