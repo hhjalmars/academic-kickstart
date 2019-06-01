@@ -54,4 +54,4 @@ projects:
 # Enable math on this page?
 math: true
 ---
-{{% staticref "files/main_ddcls18_v7.pdf" %}}Download slides{{% /staticref %}}
+{{% localref "main_ddcls18_v7.pdf" %}}Download slides{{% /localref %}}
