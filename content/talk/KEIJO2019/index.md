@@ -33,7 +33,8 @@ links:
 #  url: https://twitter.com/georgecushen
 url_code: ""
 url_pdf: ""
-url_slides: https://cocky-sinoussi-f53367.netlify.com/files/main_keio_190118.pdf
+# url_slides: https://cocky-sinoussi-f53367.netlify.com/files/main_keio_190118.pdf
+url_slides: main_keio_190118.pdf
 url_video: ""
 
 # Markdown Slides (optional).
@@ -54,5 +55,7 @@ projects:
 
 # Enable math on this page?
 math: true
+
+# This should be below --- {{% staticref "files/main_keio_190118.pdf" %}}Download slides{{% /staticref %}}
 ---
-{{% staticref "files/main_keio_190118.pdf" %}}Download slides{{% /staticref %}}
+
