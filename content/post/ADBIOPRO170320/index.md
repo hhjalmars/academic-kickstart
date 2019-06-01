@@ -1,6 +1,7 @@
 ---
 title: VINNOVA Competence Center AdBIOPRO proposal approved  
-date_start: 2017-03-20
+date: "2017-03-20T00:00:00Z"
+
 # View.
 #   1 = List
 #   2 = Compact
