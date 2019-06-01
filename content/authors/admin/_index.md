@@ -27,6 +27,9 @@ interests:
 
 education:
   courses:
+  - course: Docent in Signal Processing
+    institution: KTH
+    year: 1997
   - course: PhD in Automatic Control
     institution: Linköping University
     year: 1993
