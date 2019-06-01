@@ -15,6 +15,3 @@ header:
   image: ""
 ---
 Our application for the VINNOVA Competence Center for Advanced BioProduction by Continuous Production has been approved. 
-{{ dateFormat ( or $.Site.Params.dateFormat "2006, Jan 02" ) $.Page.Params.LastMod }}
-
-
