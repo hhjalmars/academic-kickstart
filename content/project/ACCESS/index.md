@@ -27,7 +27,7 @@ image:
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
-slides: example
+slides: ""
 ---
 
 Connected, intelligent transportation systems, active buildings, and smart power grids. Home-based health care, wireless manufacturing and positioning systems that work anywhere and everywhere. At the ACCESS Centre, we're finding ways to facilitate communication between people, systems and machines. A holistic approach helps us to achieve results with broad applicability. Through networked systems we're laying a foundation for a more sustainable society, less stressful life and a more responsible future.
