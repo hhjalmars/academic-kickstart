@@ -33,7 +33,7 @@ links:
 #  url: https://twitter.com/georgecushen
 url_code: ""
 url_pdf: ""
-url_slides: main_stuttgart_161206_v3_handouts.pdf
+url_slides: main_stuttgart_20161206_v3_handouts.pdf
 url_video: ""
 
 # Markdown Slides (optional).
@@ -56,5 +56,5 @@ projects:
 math: true
 
 # This should be below ---- {{% staticref "files/main_stuttgart_161206_v3_handouts.pdf" %}}Download slides{{% /staticref %}}
-
 ---
+
