@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Guangdong University of Technology
+role: Guangdong University of Technology. Postdoc 2010-2012
 
 # Organizations/Affiliations
 organizations:
