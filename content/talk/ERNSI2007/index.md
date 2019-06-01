@@ -33,7 +33,7 @@ links:
 #  url: https://twitter.com/georgecushen
 url_code: ""
 url_pdf: ""
-url_slides: https://cocky-sinoussi-f53367.netlify.com/files/ernsi07_hjalmarsson_071003_v2.pdf
+url_slides: ernsi07_hjalmarsson_071003_v2.pdf
 url_video: ""
 
 # Markdown Slides (optional).
@@ -54,5 +54,7 @@ projects:
 
 # Enable math on this page?
 math: true
+
+# This should be below --- {{% staticref "files/ernsi07_hjalmarsson_071003_v2.pdf" %}}Download slides{{% /staticref %}}
 ---
-{{% staticref "files/ernsi07_hjalmarsson_071003_v2.pdf" %}}Download slides{{% /staticref %}}
+
