@@ -32,7 +32,7 @@ links:
 #  url: https://twitter.com/georgecushen
 url_code: ""
 url_pdf: ""
-url_slides: https://cocky-sinoussi-f53367.netlify.com/files/main_ddcls18_v7.pdf
+url_slides: main_ddcls18_v7.pdf
 url_video: ""
 
 # Markdown Slides (optional).
