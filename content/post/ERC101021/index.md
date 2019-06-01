@@ -1,5 +1,7 @@
 ---
-title: Test news
+title: ERC Advanced Grant LEARN approved
+publishDate: 2010-10-21T00:00:00Z
+lastmod: 2010-10-21
 
 # View.
 #   1 = List
@@ -12,4 +14,4 @@ header:
   caption: ""
   image: ""
 ---
-Very exiting news.
+We are happy to announce that our ERC Advanced Grant Limitations, Estimation, Adaptivity, Reinforcement, Networks in System Identification (LEARN) has been approved. We have a 60% share of this project where Prof. Lennart Ljung, Linköping University is PI. 
