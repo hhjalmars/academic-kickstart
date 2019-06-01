@@ -1,5 +1,7 @@
 ---
-title: Test news
+title: The Swedish Reseach Council Research Environment NewLEADS approved 
+publishDate: 2017-02-17T00:00:00Z
+lastmod: 2017-02-17
 
 # View.
 #   1 = List
@@ -12,4 +14,4 @@ header:
   caption: ""
   image: ""
 ---
-Very exiting news.
+Today it was announced that our Research Environment proposal "New directions in learning dynamical systems (NewLEADS)"  was approved by the Swedish Reseach Council. The project is in collaboration with the Department of Information Technology at Uppsala University. 
