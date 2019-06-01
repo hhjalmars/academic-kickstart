@@ -1,6 +1,6 @@
 ---
 # Course title, summary, and position.
-linktitle: 3rd Spring School on Data-driven Model Learning of Dynamic Systems - Dynamic Model Learning.
+linktitle: 3rd Spring School on Data-driven Model Learning of Dynamic Systems Dynamic Model Learning.
 summary: Fundamentals of dynamic model learning. 
 weight: 1
 
@@ -21,7 +21,7 @@ menu:
     weight: 1
 ---
 
-## 3rd Spring School on Data-driven Model Learning of Dynamic Systems  - Dynamic Model Learning
+## 3rd Spring School on Data-driven Model Learning of Dynamic Systems  Dynamic Model Learning
 
 * The website of the entire school can be found [here](https://spring-id-2019.sciencesconf.org/resource/page/id/1)
 
