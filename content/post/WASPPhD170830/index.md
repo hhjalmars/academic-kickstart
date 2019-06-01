@@ -1,5 +1,7 @@
 ---
-title: Test news
+title: New WASP project
+publishDate: 2017-08-30T00:00:00Z
+lastmod: 2017-08-30
 
 # View.
 #   1 = List
@@ -12,4 +14,4 @@ header:
   caption: ""
   image: ""
 ---
-Very exiting news.
+Today we got the news that our project *Learning Dynamical Systems* has been approved by the Wallenberg AI, Autonomous Systems and Software Program (WASP). 
