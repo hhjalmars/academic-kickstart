@@ -1,6 +1,6 @@
 ---
-title: Test news
-
+title: VINNOVA Competence Center AdBIOPRO proposal approved  
+date_start: 2017-03-20
 # View.
 #   1 = List
 #   2 = Compact
@@ -12,4 +12,4 @@ header:
   caption: ""
   image: ""
 ---
-Very exiting news.
+Our application for the VINNOVA Competence Center for Advanced BioProduction by Continuous Production has been approved. 
