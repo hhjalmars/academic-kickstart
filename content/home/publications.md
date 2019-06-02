@@ -69,3 +69,5 @@ subtitle = ""
 {{% alert note %}}
 Quickly discover relevant content by [filtering publications]({{< ref "/publication/_index.md" >}}).
 {{% /alert %}}
+
+Get publications from the [Diva database](http://www.kth.se/ees/kontakt/sokanstalld/personalPublications.php?id=u10a8l40)
