@@ -14,4 +14,4 @@ header:
   caption: ""
   image: ""
 ---
-We are looking for a [postdoctor](https://www.kth.se/en/om/work-at-kth/lediga-jobb/what:job/jobID:268614/where:4/). The call ends June 21, 2019. 
+We are hiring 1-2 postdoctors in modeling and control for bioproduction supported by the Centre for Advanced Bioproduction by Continuous Processing, AdBIOPRO. Details can be found [here](https://www.kth.se/en/om/work-at-kth/lediga-jobb/what:job/jobID:268614/where:4/).
