@@ -1,5 +1,5 @@
 ---
-title: Test news
+title: Call for PhD student postions in Self-Learnig Dynamical Systems
 
 # View.
 #   1 = List
@@ -12,4 +12,4 @@ header:
   caption: ""
   image: ""
 ---
-Very exiting news.
+We are now hiring 1-5 PhD students in the area of Self-Learning Dynamical Systems
