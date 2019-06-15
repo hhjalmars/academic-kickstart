@@ -1,5 +1,5 @@
 ---
-title: Call for PhD student postions in Self-Learnig Dynamical Systems
+title: Open positions - PhD students in Self-Learnig Dynamical Systems
 publishDate: 2019-06-13
 lastmod: 2019-06-13
 
