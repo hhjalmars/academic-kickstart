@@ -2,7 +2,7 @@
 title: SmartFD
 summary: Smart feed design for biopharmaceutical production
 tags:
-- Ongoing
+- Past
 date: "2019-05-29T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
